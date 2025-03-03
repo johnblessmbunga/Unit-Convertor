@@ -28,7 +28,7 @@ __-Dashboard__: contains a dashboard for user input. Initially the dashboard is 
 
 When an option is selected user must input necessary units and value which will result in output displayed once the button enter is pressed as shown in Figure 2.
 ### Figure 2: Input Dashboard Length
-![Input_Dasboard](images/Input Dashboard Length.png)
+![Input_Dasboard](images/InputDashboardLength.png)
 
 __-Error Handling__: Output only produced in event of valid inputs in dashboard.
 ## License
