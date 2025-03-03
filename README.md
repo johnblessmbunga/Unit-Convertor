@@ -25,7 +25,10 @@ __-Temperature Conversion__: Can convert temperature unit from the follwoing set
 __-Dashboard__: contains a dashboard for user input. Initially the dashboard is set to the homepage where the option of conversion can be set to length, pressure or temperature as shown in Figure 1.
 ### Figure 1: Homepage
 ![Homepage](images/Homepage.png)
+
 When an option is selected user must input necessary units and value which will result in output displayed once the button enter is pressed as shown in Figure 2.
+### Figure 2: Input Dashboard Length
+![Input_Dasboard](images/Input Dashboard Length.png)
 
 __-Error Handling__: Output only produced in event of valid inputs in dashboard.
 ## License
