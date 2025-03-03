@@ -35,4 +35,4 @@ __-Error Handling__: Output only produced in event of valid inputs in dashboard.
 This project is licensed under MIT license.
 
 ### Acknowledgements
-Thanks to the os library for providing backend framework.
+Thanks to the tktinter library for providing backend framework.
