@@ -18,7 +18,7 @@ npm start
 ### Features
 __-Dashboard__: contains a dashboard for user input. Initially the dashboard is set to the homepage
 ### Figure 1: Homepage
-![image](https://github.com/user-attachments/assets/df132330-6d99-450a-adb0-db5b29bceb78)
+![Homepage](images/Homepage.png)
 
 
 __-Brackets__: Can use brackets in equations with symbols \(\) other brackets such as \[\] and \{\} are not accepted. When two adjacent bracket elements or a number element follwed by a bracket element the result of the commputation is the product of the two elements.
