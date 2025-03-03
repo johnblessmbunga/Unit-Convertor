@@ -16,16 +16,18 @@ To strat application ,run:
 
 npm start
 ### Features
-__-Dashboard__: contains a dashboard for user input. Initially the dashboard is set to the homepage
+__-Length Conversion__: Can convert length unit from the follwoing set of units mm,cm,m km, and inches.
+
+__-Pressure Conversion__: Can convert pressure unit from the follwoing set of units Pa,kPa,Mpa.
+
+__-Temperature Conversion__: Can convert temperature unit from the follwoing set of units C,F, and K.
+
+__-Dashboard__: contains a dashboard for user input. Initially the dashboard is set to the homepage where the option of conversion can be set to length, pressure or temperature as shown in Figure 1.
 ### Figure 1: Homepage
 ![Homepage](images/Homepage.png)
+When an option is selected user must input necessary units and value which will result in output displayed once the button enter is pressed as shown in Figure 2.
 
-
-__-Brackets__: Can use brackets in equations with symbols \(\) other brackets such as \[\] and \{\} are not accepted. When two adjacent bracket elements or a number element follwed by a bracket element the result of the commputation is the product of the two elements.
-
-__-Positive & Negative Handling__: Recognises + or - before a number or bracket element as  an indication of a positive or negative element. Additionaly Arithemtic-Calculator can simplify multiple adjacent + or/and - signs into a single + or - sign.
-
-__-Space & Error Handling__: Is capable of handling whether spaces are included, not included, or a combination of both. Arithemtic-Calculator also produces error message if unclosed bracket, random string, invalid operation detected.
+__-Error Handling__: Output only produced in event of valid inputs in dashboard.
 ## License
 This project is licensed under MIT license.
 
